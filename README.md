@@ -16,6 +16,8 @@ It's very easy to use, just run the script and pass the option (1- GitHub; 2 - p
 python3 give_me_secrets.py --option 1 --repo https://github.com/Josue87/BoomER.git 
 ```
 
+Spanish post in [Boomernix](https://www.boomernix.com/2019/09/givemesecrets-analiza-repositorios-para.html)
+
 ## Author
 
 Josué Encinar [@JosueEncinar](https://twitter.com/JosueEncinar)
