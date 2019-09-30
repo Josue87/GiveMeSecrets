@@ -6,7 +6,7 @@ Use regular expressions to get sensitive information from a given repository (Gi
 
 ## Dependencies
 
-You only need to have python 3.6 or higher installed to launch this script.
+You only need to have python 3.6 or higher installed to launch this script. In addition you must have installed in the system git, pip and npm.
 
 ## How to use
 
@@ -16,7 +16,7 @@ It's very easy to use, just run the script and pass the option (1- GitHub; 2 - p
 python3 give_me_secrets.py --option 1 --repo https://github.com/Josue87/BoomER.git 
 ```
 
-Spanish post in [Boomernix](https://www.boomernix.com/2019/09/givemesecrets-analiza-repositorios-para.html)
+Spanish post in [Boomernix.com](https://www.boomernix.com/2019/09/givemesecrets-analiza-repositorios-para.html)
 
 ## Author
 
